@@ -1,2 +1,2 @@
 # MyPythonProject
-一些自己写的python小程序
+准备写一个关于会员管理的小项目
